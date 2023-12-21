@@ -1,0 +1,44 @@
+body
+{
+	font-family: Times New Roman;
+	font-size: 20px;
+	color: darkred;
+}
+a:visited, a:link
+{
+	color: hotpink;
+	background-color: transparent;
+	padding: 10px;
+	text-decoration: none;
+	text-align: center;
+	border-radius: 20px;
+	display: inline-block;
+	
+}
+a:hover, a:active
+{
+	background-color: lightpink;
+	
+}
+img
+{
+	border: 5px solid darkred;
+	border-radius: 20px;
+}
+p
+{
+	border-radius: 20px;
+	padding: 10px;
+	color: darkred;
+}
+h2
+{
+	color: hotpink;
+}
+table,tr,th,td
+{
+	color: darkgoldenrod;
+	background-color: transparent;
+	padding: 10px;
+	text-align: center;
+}
